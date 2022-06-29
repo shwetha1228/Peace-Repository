@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ting Vit_toolbar-action-icon</name>
+   <tag></tag>
+   <elementGuidId>cf05df96-1035-4585-bcef-b1259dea5708</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-site-header']/div/div/div/div/div[3]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.toolbar-action-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9aae7ee0-7847-4202-bfed-768d96d0a726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toolbar-action-icon</value>
+      <webElementGuid>e269b98e-ea4a-4619-8f7d-3beab001d484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-site-header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-inner grey1-bg&quot;]/div[@class=&quot;container desktop-menu&quot;]/div[@class=&quot;nav-collapse&quot;]/div[@class=&quot;dropdown mx-user-options pull-right mx-account-panel&quot;]/ul[@class=&quot;mx-top-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle my-account-menu&quot;]/span[@class=&quot;toolbar-action-icon&quot;]</value>
+      <webElementGuid>28e74421-249f-42e9-8416-ab3c6338407b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-site-header']/div/div/div/div/div[3]/ul/li/a/span</value>
+      <webElementGuid>3e36ac2d-fda3-4f98-9e41-4405728c3270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/ul/li/a/span</value>
+      <webElementGuid>0df5fcd2-d101-44ce-96af-b713410c7e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
